@@ -8,7 +8,7 @@ tools = [
     "hydra", "dpl4hydra", "hydra-wizard", "pw-inspector", "hydra-gtk", "xhydra",
     "airbase-ng", "aircrack-ng", "airdecap-ng", "airdecloak-ng", "aireplay-ng", "airmon-ng", "airodump-ng", "airolib-ng",
     "crunch", "parsero", "theHarvester", "metasploit-framework", "msf-egghunter", "msf-exe2vba",
-    "libwireshark-data", "libwireshark-dev", "tshark", "wireshark",
+    "libwireshark-data", "libwireshark-dev", "tshark", "wireshark","ciphey","john",
 ]
 
 # Function to execute a shell command
